@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723197147 source:c:\users\onurs\onedrive\masaüstü\numberguessingname\main.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
