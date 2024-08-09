@@ -7,7 +7,7 @@
 //Simple random guessing number game;
 int main()
 {
-3
+
     int input;
     srand(time(NULL));
     int r = rand() % 6;
